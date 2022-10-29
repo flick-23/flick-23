@@ -16,3 +16,4 @@
 <img alt="Flick's github stats" src="https://github-readme-stats.vercel.app/api?username=flick-23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
   </div>
 </div>
+[![@flick_23's Holopin board](https://holopin.me/flick_23)](https://holopin.io/@flick_23)
