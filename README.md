@@ -21,7 +21,7 @@ I'm a passionate software engineer with a knack for solving complex problems and
 - **Generative AI:** Exploring the frontiers of AI to create intelligent systems that drive value and innovation.
 
 🔧 **Skills:**
-- **Languages:** Java, Python, JavaScript, Apex, LWC
+- **Languages:** Java, Python, JavaScript, C++, C
 - **Technologies:** OCI Platform, AWS, Docker, Kubernetes, GCP
 - **Frameworks & Libraries:** ReactJs, NodeJs, JQuery, Apex, Numpy, TensorFlow
 - **Databases:** MongoDb & SQL
