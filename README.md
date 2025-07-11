@@ -1,6 +1,6 @@
 # Hi there\! I'm Venkatesh\! 👋
 
-**Software Engineer @ Google | Building the Future, One Decentralized Block at a Time** 🚀
+**Software Engineer @ Google | Crafting Dev Tools & Exploring Decentralized Futures 🚀**
 
 Welcome to my digital workshop\! I'm a passionate **Software Engineer at Google**, driven by a love for crafting robust, scalable systems and solving complex challenges. My journey in tech has been an exciting exploration, from diving deep into cloud infrastructure and distributed systems to experimenting with the frontiers of Generative AI.
 
