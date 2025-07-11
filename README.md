@@ -1,5 +1,45 @@
-## Badges
-  [![@flick_23's Holopin board](https://holopin.me/flick_23)](https://holopin.io/@flick_23)
+# Hi there\! I'm Venkatesh\! 👋
+
+**Software Engineer @ Google | Building the Future, One Decentralized Block at a Time** 🚀
+
+Welcome to my digital workshop\! I'm a passionate **Software Engineer at Google**, driven by a love for crafting robust, scalable systems and solving complex challenges. My journey in tech has been an exciting exploration, from diving deep into cloud infrastructure and distributed systems to experimenting with the frontiers of Generative AI.
+
+But beyond the core, my true fascination lies in **web3**. I'm actively exploring, building, and contributing to the decentralized future, believing in its power to reshape industries and empower individuals.
+
+-----
+
+### 💻 What I Do & What I'm Passionate About:
+
+  - **Full-Stack Development:** Crafting seamless and intuitive user experiences with a strong command of both frontend and backend technologies.
+  - **Cloud Infrastructure & Distributed Systems:** Designing and managing highly scalable and reliable solutions in the cloud.
+  - **Generative AI:** Exploring cutting-edge AI to create intelligent systems that drive innovation and deliver tangible value.
+  - **Web3 & Decentralized Technologies:** Building decentralized applications (dApps) and smart contracts, contributing to a more open and equitable internet.
+
+-----
+
+### 🛠️ My Toolbox:
+
+| Category        | Technologies                                                                          |
+| :-------------- | :------------------------------------------------------------------------------------ |
+| **Languages** | Java, Kotlin, Python, JavaScript, C++, C, Motoko, Solidity |
+| **Cloud/DevOps**| OCI Platform, AWS, Docker, Kubernetes, GCP, Jenkins                                   |
+| **Frameworks** | ReactJs, Svelte, NodeJs, JQuery, Apex, Numpy, TensorFlow, Hardhat, Ethers.js, Web3.js |
+| **Databases** | MongoDb, SQL                                                                          |
+| **SDKs** | Flutter, Firebase                                                                     |
+| **Tools** | Git, Truffle, Ganache, Remix IDE |
+
+-----
+
+### 🚀 Currently:
+
+I'm thrilled to be a **Software Engineer at Google**, where I get to tackle large-scale challenges and innovate every day. Outside of work, you'll find me immersed in my side projects, primarily focusing on **web3 initiatives**. I'm always eager to explore new technologies and push the boundaries of what's possible in the decentralized space.
+
+-----
+
+### 📬 Let's Connect\!
+
+Feel free to reach out if you'd like to collaborate on exciting projects, discuss the future of tech and web3, or just chat\!
+
 
 <a href="mailto:venkigd8@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -9,32 +49,9 @@
 <a href="https://twitter.com/flick__23" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style=“margin-bottom: 5px;” />
 
----
+-----
 
-### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">  I'm Venkatesh!
-
-I'm a passionate software engineer with a knack for solving complex problems and building robust, scalable systems. With a strong background in full-stack development, I thrive on turning innovative ideas into impactful solutions. My journey in tech has led me to work with cutting-edge technologies, from cloud infrastructure and distributed systems to Generative AI.
-
-💻 **What I do:**
-- **Full-Stack Development:** Crafting seamless user experiences with a solid understanding of both frontend and backend technologies.
-- **Cloud Infrastructure:** Designing and managing scalable solutions in the cloud, with a focus on reliability and performance.
-- **Generative AI:** Exploring the frontiers of AI to create intelligent systems that drive value and innovation.
-
-🔧 **Skills:**
-- **Languages:** Java, Python, JavaScript, C++, C, Motoko
-- **Technologies:** OCI Platform, AWS, Docker, Kubernetes, GCP
-- **Frameworks & Libraries:** ReactJs, NodeJs, JQuery, Apex, Numpy, TensorFlow
-- **Databases:** MongoDb & SQL
-- **SDKs:** Flutter & Firebase
-- **Tools:** Git, Jenkins
-
-🚀 **Currently:** 
-I'm working as a Software Engineer at Palo Alto Networks, and I'm always on the lookout for new challenges that push the boundaries of what's possible in tech.
-
-📫 **Get in touch:** 
-Feel free to reach out if you'd like to collaborate on exciting projects or just chat about tech!
-
----
+### My GitHub Activity:
 
 
 
@@ -43,9 +60,14 @@ Feel free to reach out if you'd like to collaborate on exciting projects or just
   -->
   <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=flick-23&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flick-23&theme=vue-dark&hide_border=false" >
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flick-23&theme=vue-dark&hide_border=false" > -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flick-23&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" >
 
   </div>
 
+---
+## Badges
+  [![@flick_23's Holopin board](https://holopin.me/flick_23)](https://holopin.io/@flick_23)
+
+-----
   
